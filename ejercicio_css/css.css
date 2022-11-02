@@ -1,0 +1,11 @@
+p{
+    background-color: aqua;
+}
+
+.texto_blanco{
+    font-size: 40px;
+}
+
+#alineada_al_centro{
+    text-align: center;
+}
