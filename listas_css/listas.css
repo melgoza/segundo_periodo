@@ -1,0 +1,19 @@
+.sin_elemento {
+    list-style-type: none;
+}
+
+.circulos {
+    list-style-type: circle;
+}
+
+.cuadrados {
+    list-style-type: square;
+}
+
+.numeros_romanos {
+    list-style-type: lower-roman;
+}
+
+.letras_griegas {
+    list-style-type: lower-greek;
+}
