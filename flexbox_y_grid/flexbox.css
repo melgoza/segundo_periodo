@@ -1,0 +1,23 @@
+body{
+    background-color: turquoise;
+}
+
+.layout{
+    display: flex;
+    background-color: white;
+    border: 5px solid black;
+    padding: 10px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.caja{
+    background-color: bisque;
+    color: black;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border: solid black;
+    line-height: 100px;
+    text-align: center;
+}
